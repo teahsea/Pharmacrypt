@@ -11,13 +11,13 @@ The Pharmacrypt smart contract is written in Solidity, the programming language 
 To deploy the Pharmacrypt smart contract on the Ethereum blockchain, follow these steps:
 
 1. Install an Ethereum-compatible development environment such as [Truffle](https://www.trufflesuite.com/docs/truffle/overview) or [Hardhat](https://hardhat.org/getting-started/) [Remix-IDE](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.25+commit.b61c2a91.js)
-2. Clone this repository to your local machine: git clone https://github.com/teahsea/Pharmacrypt.git
-3. Navigate to the repository directory
-```bash
-    cd Pharmacrypt
-```
-4. Compile the smart contract:
-5. Deploy the smart contract to a local blockchain for testing or to the Ethereum mainnet or testnet
+2. Let's take exmaple of run with Remix-IDE.
+3. Go to [Remix.IDE](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.25+commit.b61c2a91.js).
+4. Choose an option of improt contract from github.
+5. Improt this contract path: https://github.com/teahsea/Pharmacrypt/blob/main/Pharmacrypt.sol
+6. Compile and Deploy.
+7. Interact with Deployed version.
+
 
 
 ## Interacting with the Smart Contract
